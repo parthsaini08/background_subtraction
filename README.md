@@ -2,6 +2,7 @@
 
 
 ## How to use:
-- Save the test image in demo/image_matting/colab/input
-- run app.py
-- check the background removed images in demo/image_matting/colab/output
+- Clone the repository.
+- Install all the libraries as mentioned in requirements.txt.
+- Run app.py
+- The output will be displayed after giving the input image.
